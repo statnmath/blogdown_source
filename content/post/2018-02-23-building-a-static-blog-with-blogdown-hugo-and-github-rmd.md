@@ -1,5 +1,5 @@
 ---
-title: Building a Static Blog with Blogdown, Hugo and GitHub"
+title: Building a Static Blog with Blogdown, Hugo and GitHub
 author: Jeeyoung Lee
 date: '2018-01-31'
 slug: building-a-static-blog-with-blogdown-hugo-and-github-rmd
@@ -7,10 +7,10 @@ categories: ["R"]
 tags: ["R", "Blogdown", "Hugo", "GitHub"]
 ---
 
-When I was an undergraduate student at University of Toronto, I created a [StatnMath google blog](http://statnmath.blogspot.ca/), simply because I wanted to review what I had learned at school. Actually I have one more, Korean version hosted by Tistory, [StatnMath Tistory](http://statnmath.tistory.com/). Sooner or later I realized that sharing what I learned is good for both readers and me. Thanks to amazing people sharing their knowledge and expertise, finally I got this beautiful template for free. I want to be part of them. As I am inspired by amazing people, I hope I can be a person who inspire others, especially newbies. So there is no reason to stop me from blogging. 
+When I was an undergraduate student at University of Toronto, I created a [StatnMath google blog](http://statnmath.blogspot.ca/), simply because I wanted to review what I had learned at school. Actually I have one more, Korean version hosted by Tistory, [StatnMath Tistory](http://statnmath.tistory.com/). Sooner or later I realized that sharing what I learned is good for both readers and me. Thanks to amazing people sharing their knowledge and expertise, finally I got this beautiful template, [link](https://github.com/kakawait/hugo-tranquilpeak-theme) for free. I want to be part of them. As I am inspired by amazing people, I hope I can be a person who inspire others, especially newbies. So there is no reason to stop me from blogging. 
 
 
-When I was a student, I did not know what do do and where to start. After I finished schools, I feel like now I am able to start my own journey in Data Science. I am really happy there are many things to learn, and more exciting thing is I am ready to learn. What I left is to find a place I can settle down supporting markdown syntax. I have been searching open-source static site generators, instead of keeping the Google blog. And I am here. [`Hugo`](https://gohugo.io/), [`Blogdown`](https://bookdown.org/yihui/blogdown/) and [`GitHub`](https://github.com/).!! What a perfect combination to create this blog. Do you want to build a static blog hosted by GitHub, like this blog? Let's get started. Time is flying! <br/>
+When I was a student, I did not know what do do and where to start. After I finished schools, I feel like NOW I am able to start my own journey in Data Science. I am really happy there are many things to learn, and more exciting thing is I am ready to learn. What I left is to find a place I can settle down, which supports markdown syntax. I have been searching open-source static site generators, instead of keeping the Google blog. And I am here. [`Hugo`](https://gohugo.io/), [`Blogdown`](https://bookdown.org/yihui/blogdown/) and [`GitHub`](https://github.com/).!! What a perfect combination to create this blog. Do you want to build a static blog hosted by GitHub, like this blog? Let's get started. Time is flying! <br/>
 
 
 

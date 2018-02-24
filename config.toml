@@ -19,7 +19,7 @@ defaultContentLanguage = "en-us"
 title = "StatnMath, Data Science"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "*"
+googleAnalytics = "UA-109216279-2"
 paginate = 7
 canonifyurls = true
 
@@ -33,7 +33,7 @@ canonifyurls = true
 
 [author]
   name = "Jeeyoung Lee"
-  bio = "Data will talk to you if you're willing to listen to it. - Jim Bergeson"
+  bio = "Contact info : jennylee.0828@gmail.com Data will talk to you if you're willing to listen to it. - Jim Bergeson"
   job = "Data Scientist"
   location ="Toronto, CA"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -198,10 +198,10 @@ canonifyurls = true
   # Comment and uncomment to enable or disable sharing options
   # If you wanna add a sharing option, read user documentation :
   # Tranquilpeak configuration > Theme configuration > sharing-options
-  [[params.sharingOptions]]
+   [[params.sharingOptions]]
     name = "Facebook"
     icon = "fa-facebook-official"
-    url = "https://www.facebook.com/sharer/sharer.php?u=%s"
+    url = "https://www.facebook.com/sharer/sharer.php?u="
 
   [[params.sharingOptions]]
     name = "Twitter"
